@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+    <img src="./content/eyes.GIF" alt="gif"> 
+</p>
 
-<!--
-**aoaoaoaoaoaoaoaoaoa/aoaoaoaoaoaoaoaoaoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <p>
+        ✦
+        <b>typescript</b>
+        ✦
+        <b>node.js</b>
+        ✦
+        <b>next.js</b>
+        ✦
+        <b>python</b>
+        ✦
+    </p> 
+    <p>
+        ✦
+        <b>AE</b>
+        ✦
+        <b>ux/ui</b>
+        ✦
+        <b>figma</b>
+        ✦
+        <b>neovim!</b>
+        ✦
+    </p>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
